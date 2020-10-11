@@ -4,7 +4,7 @@ My colleague was being provided with a Spreadsheet. The Spreadsheet had two colu
 
 Then, the two columns have to be distributed the following way:
 
-1. One of the columns with URLs has to be placed on the 1st column of the new Google Spreadsheet.
-2. The other column with URLs has to be placed on the 3rd column of the new Google Spreadsheet.
+1. One of the columns with URLs has to be placed on the 1st column of the new Spreadsheet.
+2. The other column with URLs has to be placed on the 3rd column of the new Spreadsheet.
 
 The 2nd and 4th columns of the new Spreadsheet will be left empty so that they can be used by the Google Script. 
